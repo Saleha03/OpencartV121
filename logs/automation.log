@@ -1,0 +1,323 @@
+02:41:26.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:26.872 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:26.902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:26.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:26.905 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:26.920 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:26.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:26.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:26.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:26.955 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:26.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:26.978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:26.980 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:26.992 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.032 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.060 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.076 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.091 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.129 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.154 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.169 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.201 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.202 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.244 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.295 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.318 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.479 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.714 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.717 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.844 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:27.955 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:27.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:27.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:27.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:28.016 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:28.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:28.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:28.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:28.046 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:41:28.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+02:41:28.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+02:41:28.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+02:41:28.075 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:43:35.556 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+02:43:35.647 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:43:36.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+02:50:05.328 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+02:50:05.362 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:50:06.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+02:50:17.752 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:50:18.473 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:50:19.315 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+02:50:19.345 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+02:50:20.949 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+02:50:30.728 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+02:50:33.928 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+02:52:47.927 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+02:52:47.981 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:52:49.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+02:52:58.750 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:52:58.999 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:53:00.316 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+02:53:00.320 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+02:53:01.692 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+02:53:07.487 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+02:53:11.195 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+02:55:13.615 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+02:55:13.696 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+02:55:14.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+02:55:15.983 [TestNG-tests-3] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:55:16.044 [TestNG-tests-3] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+02:55:16.045 [TestNG-tests-3] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+02:55:28.988 [TestNG-tests-1] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:55:29.137 [TestNG-tests-2] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:55:29.570 [TestNG-tests-2] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:55:29.681 [TestNG-tests-1] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:55:39.770 [TestNG-tests-2] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+02:55:39.770 [TestNG-tests-2] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+02:55:49.842 [TestNG-tests-1] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+02:55:49.842 [TestNG-tests-1] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+03:26:30.061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+03:26:30.167 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+03:26:31.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+03:26:32.234 [TestNG-tests-3] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+03:26:32.287 [TestNG-tests-3] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+03:26:32.287 [TestNG-tests-3] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+03:26:46.779 [TestNG-tests-1] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+03:26:47.724 [TestNG-tests-2] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+03:26:47.961 [TestNG-tests-1] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+03:26:48.081 [TestNG-tests-2] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+03:26:58.545 [TestNG-tests-1] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+03:26:58.545 [TestNG-tests-1] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+03:27:09.074 [TestNG-tests-2] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+03:27:09.075 [TestNG-tests-2] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+03:21:32.821 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+03:21:32.869 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+03:21:34.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+03:21:34.899 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+03:21:34.924 [main] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+03:21:34.924 [main] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+03:24:16.668 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+03:24:16.702 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+03:24:18.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+03:26:56.792 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+03:26:56.841 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+03:26:58.075 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+03:29:27.078 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+03:29:27.112 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+03:29:28.335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+03:30:54.519 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+03:30:54.555 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+03:30:55.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+03:36:32.699 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+03:36:32.733 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+03:36:34.207 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+05:39:27.982 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\docker-compose.yaml"
+05:43:47.723 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+05:43:47.789 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+05:43:49.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+00:43:19.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+00:43:19.266 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+00:43:21.113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+00:47:13.013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+00:47:13.066 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+00:47:15.103 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+00:49:09.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+00:49:09.474 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+00:49:12.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+01:02:05.475 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+01:02:05.526 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+01:02:07.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+01:02:16.006 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:02:16.468 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:02:17.537 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:02:17.541 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:02:18.696 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:02:25.004 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+01:02:28.100 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+01:03:02.783 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:03:02.814 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+01:03:04.209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+01:03:09.674 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:03:10.142 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:03:11.310 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:03:11.311 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:03:12.330 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:03:18.454 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+01:03:21.246 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+01:04:01.376 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:04:01.467 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+01:04:03.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+01:04:11.455 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:04:12.446 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:04:13.521 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:04:13.523 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:04:14.709 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:04:23.069 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+01:04:26.334 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+01:05:10.746 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:05:17.815 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:05:18.573 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:05:18.575 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:05:19.589 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:05:27.855 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:05:27.931 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+01:05:31.076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+01:06:21.468 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:06:21.552 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+01:06:27.420 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+01:06:40.559 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:06:41.089 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:06:56.331 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:06:56.333 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:06:58.119 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:07:51.443 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+01:07:51.486 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+01:07:53.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+01:33:34.558 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:33:34.625 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+01:33:36.436 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+01:39:51.431 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:40:01.883 [main] ERROR testCases.TC001_AccountregistrationTest - Test Failed..
+01:40:01.884 [main] DEBUG testCases.TC001_AccountregistrationTest - Debug logs...
+01:50:33.679 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+01:50:33.725 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+01:50:35.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+01:50:47.784 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:50:49.087 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:50:50.169 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:50:50.202 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:50:51.476 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:50:57.742 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+01:51:01.693 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+01:52:48.141 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:52:48.187 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+01:52:49.550 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+01:52:54.255 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:52:54.517 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:52:55.387 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:52:55.394 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:52:56.647 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:53:02.755 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+01:53:05.458 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+01:53:29.982 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+01:53:30.328 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+01:53:31.080 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+01:53:31.080 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+01:53:32.072 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+01:53:47.965 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+01:53:52.344 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+02:00:50.251 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\grid-docker.xml"
+02:00:50.309 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+02:00:51.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\grid-docker.xml
+
+02:00:59.050 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:00:59.642 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:01:01.391 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+02:01:01.439 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+02:01:03.684 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+02:01:09.598 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+02:01:12.195 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+02:01:31.465 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:01:31.846 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:01:32.964 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+02:01:32.971 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+02:01:35.849 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+02:01:54.153 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+02:01:57.896 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+02:20:18.774 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+02:20:18.817 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:20:27.562 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:20:27.863 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:20:28.775 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+02:20:28.777 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+02:20:29.803 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+02:20:37.954 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+02:20:40.405 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+02:49:30.314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+02:49:30.352 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+02:49:37.257 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+02:49:37.786 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+02:49:38.536 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+02:49:38.540 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+02:49:39.839 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+02:49:47.763 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+02:49:50.106 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+03:25:15.625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+03:25:15.656 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+03:25:23.659 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+03:25:23.891 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+03:25:24.656 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+03:25:24.659 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+03:25:25.970 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+03:25:31.101 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+03:25:34.893 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
