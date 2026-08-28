@@ -321,3 +321,25 @@
 03:25:25.970 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
 03:25:31.101 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
 03:25:34.893 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
+03:04:59.106 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+03:04:59.149 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+03:05:00.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+03:13:10.618 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+03:13:10.655 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+03:13:12.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+03:35:18.932 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse-workspace\OpencartV121\master.xml"
+03:35:18.977 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+03:35:20.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse-workspace\OpencartV121\master.xml
+
+03:35:26.973 [main] INFO  testCases.TC001_AccountregistrationTest - ****Starting TC001_AccountregistrationTest *****
+03:35:27.554 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on MyAccout Link
+03:35:28.709 [main] INFO  testCases.TC001_AccountregistrationTest - Clicked on Registration Link
+03:35:28.722 [main] INFO  testCases.TC001_AccountregistrationTest - Providing cutomer details...
+03:35:30.065 [main] INFO  testCases.TC001_AccountregistrationTest - ****Finished TC001_AccountregistrationTest *****
+03:35:35.037 [main] INFO  testCases.TC002_LoginTest - *****TC002 Starting********
+03:35:38.178 [main] INFO  testCases.TC002_LoginTest - *****TC002 LoginTest Finished********
